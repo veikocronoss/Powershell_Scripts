@@ -1,4 +1,4 @@
-# Powershell_Scripts
+# SCCM/MECM Automated Idenitifcation Script.
+The intent behind this script is to be able to have machines call this upon login, and self-identify what problems it has when it comes to SCCM/MECM.
 
-This Repository is a collection of scripts created to manage multiple aspects of Server Administration.
-The scope of each script varies by the requirement of the script.
+This can be extremely useful when the machine has no user input for updating the software that is installed, and requires organizational updates.
