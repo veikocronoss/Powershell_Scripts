@@ -8,7 +8,11 @@ With that being said, this script does not store any values, such as key words b
 
 ## Reason for PowerShell vs any other language
 This script was inspired by a different Password Algorithm, but still able to run in PowerShell. 
+
 It was also meant to be an alternative to any third-party program that would need to be installed on the networked enclave.
+
 Given that these third-party programs have a means to be hacked, this script provides a nice alternative.
+
 This script can be used to change the password of Local System admin passwords, user passwords, or what is needed, just based on things such as a Customer Name, Computer name, or even serial number.
+
 This allows for more security, because it would be a tool to translate the password from plain-text key words mentioned before into a complex password to be used in these cases.
