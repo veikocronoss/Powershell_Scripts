@@ -1,11 +1,7 @@
-# Powershell_Scripts
+# NetIQ Domain Resource Administrator(DRA) Powershell Graphical User Interface(GUI) Utility Script 
 
-This Repository is a collection of scripts created to manage multiple aspects of Server Administration.
-The scope of each script varies by the requirement of the script.
+This script you see is a utility script to allow administrators to utilize Lightweight Directory Access Protocol (LDAP), and the tool made by the company NetIQ. The DRARest services and the powershell tool are very versitile, and MicroFocus (NetIQ) has quite a bit of documentation on that tool. With that stated, This script utilizes their tool to Add and Remove users from Security Groups within Active Directory, as well as add users to Security Groups that are associated with file shares on the given network enclave.
 
-Some of the scripts that are contained in here are:
+This utility script will be broken down first by the required calls, then by the logic modules, and finally the forms associated with this tool. This utility script is very primative, but it will get the job done.
 
-- Password Generator script - [PasswordGenV2.ps1](https://github.com/veikocronoss/Powershell_Scripts/tree/PasswordGenerator)
-- SCCM/MECM Automated Identification Script - [SoftwareCenterAutomatedIdentify.ps1](https://github.com/veikocronoss/Powershell_Scripts/tree/SCCM_MECM_Automated_Identification)
-
-This readme will cover more scripts as more get generated.
+For Full breakdown and Intentions, Check out [https://wiki.cronoss.tech](https://wiki.cronoss.tech/PowerShell/Scripts/DRAPowerShellGUI)
